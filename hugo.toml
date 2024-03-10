@@ -1,0 +1,3 @@
+baseURL = 'https://golang.sertao.dev/'
+languageCode = 'pt-br'
+title = 'Golang Sertão'
